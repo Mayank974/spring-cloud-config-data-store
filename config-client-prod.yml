@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to config client related monitor APIs "
+  message: "Welcome to config client related production APIs "
   contactDetails:
     name: "MT - Product Owner"
     email: "mt@eazybank.com"
