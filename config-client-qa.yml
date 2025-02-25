@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to config client related QA APIs "
+  contactDetails:
+    name: "RT - QA Team"
+    email: "rt@eazybank.com"
+  onCallSupport:
+    - (555) 343-1234
+    - (555) 343-1345
